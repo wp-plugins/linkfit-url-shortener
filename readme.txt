@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: ibourgeois (this should be a list of wordpress.org userid's)
 Donate link: http://ibourgeois.com
-Tags: widget, url, link, shortener
+Tags: widget, url, link, shortener, ibourgeois, linkfit, linkf.it
 Requires at least: 3.1
 Tested up to: 3.3
 Stable tag: trunk
@@ -18,15 +18,16 @@ This includes links to your articles so they can easily be shared on sites like 
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload `linkfit.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Drag the `Linkf.it Widget` to your active sidebar.
+3. Drag the `Linkf.it Widget` to your active sidbar.
 
 == Frequently Asked Questions ==
+
+= Do you support this plugin? =
+
+Yes. Visit my site: http://ibourgeois.com.
+
 
 
 == Screenshots ==
@@ -38,8 +39,10 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 == Changelog ==
 
 = 1.0 =
-* This is the first release. No changes have been made yet.
+* No change. This is my first release.
 
+== Upgrade Notice ==
 
-
+= 1.0 =
+There are no upgrades at the moment.
 
