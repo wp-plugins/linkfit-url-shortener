@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Linkf.it URL Shortener ===
 Contributors: ibourgeois (this should be a list of wordpress.org userid's)
 Donate link: http://ibourgeois.com
 Tags: widget, url, link, shortener, ibourgeois, linkfit, linkf.it
