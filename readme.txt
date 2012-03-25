@@ -1,5 +1,5 @@
 === Linkf.it URL Shortener ===
-Contributors: ibourgeois (this should be a list of wordpress.org userid's)
+Contributors: ibourgeois
 Donate link: http://ibourgeois.com
 Tags: widget, url, link, shortener, ibourgeois, linkfit, linkf.it
 Requires at least: 3.1
