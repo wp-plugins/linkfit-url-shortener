@@ -1,0 +1,45 @@
+=== Plugin Name ===
+Contributors: ibourgeois (this should be a list of wordpress.org userid's)
+Donate link: http://ibourgeois.com
+Tags: widget, url, link, shortener
+Requires at least: 3.1
+Tested up to: 3.3
+Stable tag: trunk
+
+A simple jQuery based URL Shortener widget.
+
+== Description ==
+
+The Linkf.it URL Shortener widget is just what is sounds like. It allows your users to shorten any link using our servers 
+(http://linkf.it). 
+
+This includes links to your articles so they can easily be shared on sites like Twitter, Facebook, and other social networks!
+
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+e.g.
+
+1. Upload `linkfit.php` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Drag the `Linkf.it Widget` to your active sidebar.
+
+== Frequently Asked Questions ==
+
+
+== Screenshots ==
+
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
+2. This is the second screen shot
+
+== Changelog ==
+
+= 1.0 =
+* This is the first release. No changes have been made yet.
+
+
+
+
