@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Linkf.it URL Shortener Widget
-Plugin URI: http://linkf.it.com/
+Plugin URI: http://linkf.it
 Description: Use the Linkf.it URL Shortener widget to allow your users to shorten your links so they can share them on sites such as Twitter, Facebook, etc..
 Author: Derek Bourgeois
 Version: 1
